@@ -26,4 +26,3 @@ def Bresenhen_Algo():
     print("The values of the Bresenhen Line Drawing Algorithms are.....")
     Bres(X,Y,X1,Y1)   
     
-Bresenhen_Algo()
